@@ -1,0 +1,20 @@
+{
+  "name": "rotation-chart",
+  "version": "1.0.0",
+  "description": "轮播图插件，适用Vue框架，可动态配置功能项：eg 左右按钮功能是否生效或显示、小圆点功能是否生效或显示",
+  "main": "slider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slider",
+    "swiper",
+    "轮播图",
+    "chart",
+    "Vue",
+    "rotation",
+    "rotation-chart"
+  ],
+  "author": "杰酱子",
+  "license": "ISC"
+}
